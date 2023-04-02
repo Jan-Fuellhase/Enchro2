@@ -1,14 +1,14 @@
 # Enchro2
-Enchro2 is a JavaFX application that provides encryption and decryption using RSA algorithm. It provides a user-friendly interface to encrypt and decrypt messages.
+Enchro2 is a JavaFX application that provides encryption and decryption using AES algorithm. It provides a user-friendly interface to encrypt and decrypt messages.
 
 # Download 
 To download the latest version of Enchro2.zip, click here: https://github.com/Jan-Fuellhase/Enchro2/raw/main/Enchro2.zip  
 To download the installer(beta), click here: https://github.com/Jan-Fuellhase/Enchro2/raw/main/Enchro2.exe  
 
 # Features
-Generate RSA encrypted messages with custom key  
+Generate AES encrypted messages with custom key  
 Encrypt messages using default key  
-Decrypt messages using the RSA key  
+Decrypt messages using the password key  
 
 # Requirements
 Java runtime environment, download here: https://www.java.com/de/download/manual.jsp (Windows online version recommended)
