@@ -3,7 +3,7 @@ Enchro2 is a JavaFX application that provides encryption and decryption using RS
 
 # Download 
 To download the latest version of Enchro2.zip, click here: https://github.com/Jan-Fuellhase/Enchro2/raw/main/Enchro2.zip  
-To download the installer, click here: https://github.com/Jan-Fuellhase/Enchro2/raw/main/Enchro2.exe  
+To download the installer(beta), click here: https://github.com/Jan-Fuellhase/Enchro2/raw/main/Enchro2.exe  
 
 # Features
 Generate RSA encrypted messages with custom key  
