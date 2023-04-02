@@ -17,8 +17,8 @@ Java runtime environment, download here: https://www.java.com/de/download/manual
 Install Java Runtime Environment.  
 Download the Enchro2 application.  
 Double-click the Start Enchro2 file to launch the application.  
-! When the .bat or .exe file is clicked, windows might throw a warning,  
-! just click on "more info" and "run anyway"
+**When the .bat or .exe file is clicked, windows might throw a warning,**
+**just click on "more info" and "run anyway"**
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
