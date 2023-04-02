@@ -24,4 +24,4 @@ Double-click the Start Enchro2 file to launch the application.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Acknowledgments
-Thanks to the developers of Java for providing the RSA implementation used in this application.
+Thanks to the developers of Java for providing the AES implementation used in this application.
