@@ -20,6 +20,9 @@ Double-click the Start Enchro2 file to launch the application.
 * **When the .bat or .exe file is clicked windows might throw a warning,**
 **just click on "more info" and "run anyway".**
 
+# Screenshot
+![image](https://user-images.githubusercontent.com/83337095/230599499-10b6b188-b1bf-4bb9-ada4-77d1de7bae6d.png)
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
